@@ -1,4 +1,4 @@
-# E-commerceProject
+# E-commerceProject Android Application 
 
 ![Screenshot_20230912_102826](https://github.com/gk2417/E-commerceProject/assets/136732391/8acab36f-22c6-416a-a736-010f0e6e8bdf)
 ![Screenshot_20230912_102837](https://github.com/gk2417/E-commerceProject/assets/136732391/969f14b4-fe37-4207-b430-3287323bfaca)
